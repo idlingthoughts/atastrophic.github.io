@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.metadata = {
     "bug_tracker_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy/issues",
     "documentation_uri" => "https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/README.md",
-    "homepage_uri"      => "https://cotes2020.github.io/chirpy-demo",
+    "homepage_uri"      => "https://idlingthoughts.github.io/youriosguide",
     "source_code_uri"   => "https://github.com/cotes2020/jekyll-theme-chirpy",
     "wiki_uri"          => "https://github.com/cotes2020/jekyll-theme-chirpy/wiki",
     "plugin_type"       => "theme"
